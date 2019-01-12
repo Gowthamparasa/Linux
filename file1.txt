@@ -1,0 +1,7 @@
+READ AND REPLICATE SSIS 
+
+
+
+if there are two foreign keyss it is composite key
+
+foreign is related to any primary key
